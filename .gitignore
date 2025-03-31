@@ -26,3 +26,5 @@ package-lock.json
 bun.lockb
 yarn.lock
 .qodo
+
+excluded_content/
