@@ -21,8 +21,8 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://logres.github.io",
-	base: "/LogresBlog",
+	site: "https://blog.logres.icu",
+	base: "/",
 	output: "static",
 	trailingSlash: "always",
 	integrations: [
